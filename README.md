@@ -54,7 +54,6 @@
 | [CodingEdu](https://github.com/yseho031018/coding-edu) | 강의, 학습 진도, 퀴즈, 챌린지와 커뮤니티를 제공하는 코딩 교육 플랫폼 | Java · Spring Boot · Thymeleaf · MySQL |
 | [MyMusic](https://github.com/yseho031018/my-music) | 개인 서버 기반 음악 스트리밍 및 오프라인 재생 서비스 | Java · Spring Boot · Android |
 | [Arcane Barrage](https://github.com/yseho031018/arcane-barrage) | 스킬 조합과 성장, 보스 전투를 구현한 웹 로그라이트 생존 게임 | JavaScript · HTML5 Canvas |
-| [Agora](https://github.com/yseho031018/agora) | 친구 및 팀 채팅 목록과 프로필 화면을 구성한 메신저 UI 프로토타입 | Flutter · Dart |
 
 ## 📊 GitHub Stats
 
